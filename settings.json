@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DragonMountsSMP.aternos.me",
-    "port": 58076,
-    "version": "1.26.23.1",
+    "ip": "TaskForceSMP.aternos.me",
+    "port": 11196,
+    "version": "26.1.2(67)",
     "try-creative": false
   },
   "position": {
