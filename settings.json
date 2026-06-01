@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "DragonMountsSMP.aternos.me",
+    "port": 58076,
+    "version": "1.26.23.1",
     "try-creative": false
   },
   "position": {
